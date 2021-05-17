@@ -1,4 +1,4 @@
-class Wallaby {
+export class Wallaby {
     constructor(
         name = '',
         color = '',

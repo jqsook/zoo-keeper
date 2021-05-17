@@ -1,4 +1,4 @@
-class Tapir {
+export class Tapir {
     constructor(
         name = '',
         color = '',

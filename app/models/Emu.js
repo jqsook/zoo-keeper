@@ -1,4 +1,4 @@
-class Emu {
+export class Emu {
     constructor(
         name = '',
         color = '',

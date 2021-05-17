@@ -1,4 +1,4 @@
-class Fox{
+export class Fox{
     constructor(
         name = '',
         color = '',

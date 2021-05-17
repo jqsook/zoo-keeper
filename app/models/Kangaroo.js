@@ -1,4 +1,4 @@
-class Kangaroo{
+export class Kangaroo{
     constructor(
         name = '',
         color = '',

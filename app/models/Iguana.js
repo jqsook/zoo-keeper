@@ -1,4 +1,4 @@
-class Iguana {
+export class Iguana {
     constructor(
         name = '',
         color = '',

@@ -2,7 +2,6 @@
 import { Alligator } from "./models/Alligator.js";
 import { Beaver } from "./models/Beaver.js";
 import { Cat } from "./models/Cat.js";
-import { Cat } from "./models/Cat.js";
 import { Dog } from "./models/Dog.js";
 import { Emu } from "./models/Emu.js";
 import { Fox } from "./models/Fox.js";
@@ -25,6 +24,17 @@ import { Vole } from "./models/Vole.js";
 import { Wallaby } from "./models/Wallaby.js";
 import { Xray } from "./models/Xray.js";
 import { Zebra } from "./models/Zebra.js";
+
+//---------New-------------------
+
+
+
+
+
+
+
+
+
 
 // ----------Declarations of new vars inside the main---------//
 let ally = new Alligator("Ally", "Green", "F", 200, 60, "big");

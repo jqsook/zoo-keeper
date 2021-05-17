@@ -1,4 +1,4 @@
-class Hawk {
+export class Hawk {
     constructor(
         name = '',
         color = '',

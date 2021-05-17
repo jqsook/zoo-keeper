@@ -1,4 +1,4 @@
-class Beaver {
+export class Beaver {
     constructor(
         name = '',
         color = '',

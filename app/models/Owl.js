@@ -1,4 +1,4 @@
-class Owl {
+export class Owl {
     constructor(
         name = '',
         color = '',

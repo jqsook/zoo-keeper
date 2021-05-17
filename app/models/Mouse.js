@@ -1,4 +1,4 @@
-class Mouse {
+export class Mouse {
     constructor(
         name = '',
         color = '',

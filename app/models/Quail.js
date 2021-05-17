@@ -1,4 +1,4 @@
-class Quail {
+export class Quail {
     constructor(
         name = '',
         color = '',

@@ -1,4 +1,4 @@
-class Cat {
+export class Cat {
     constructor(
         name = '',
         color = '',

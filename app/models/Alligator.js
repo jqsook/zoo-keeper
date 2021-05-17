@@ -1,4 +1,4 @@
-class Alligator {
+export class Alligator {
     constructor(
         name = '',
         color = '',

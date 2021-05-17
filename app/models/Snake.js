@@ -1,4 +1,4 @@
-class Snake {
+export class Snake {
     constructor(
         name = '',
         color = '',

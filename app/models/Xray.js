@@ -1,4 +1,4 @@
-class Xray {
+export class Xray {
     constructor(
         name = '',
         color = '',

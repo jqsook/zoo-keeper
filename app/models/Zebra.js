@@ -1,4 +1,4 @@
-class Zebra {
+export class Zebra {
     constructor(
         name = '',
         color = '',

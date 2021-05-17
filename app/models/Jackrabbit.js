@@ -1,4 +1,4 @@
-class Jackrabbit {
+export class Jackrabbit {
     constructor(
         name = '',
         color = '',

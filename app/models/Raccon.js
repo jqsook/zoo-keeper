@@ -1,4 +1,4 @@
-class Raccon {
+export class Raccon {
     constructor(
         name = '',
         color = '',

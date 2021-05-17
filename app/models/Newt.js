@@ -1,4 +1,4 @@
-class Newt {
+export class Newt {
     constructor(
         name = '',
         color = '',

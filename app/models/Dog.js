@@ -1,4 +1,4 @@
-class Dog {
+export class Dog {
     constructor(
         name = '',
         color = '',

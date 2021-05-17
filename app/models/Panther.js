@@ -1,4 +1,4 @@
-class Panther {
+export class Panther {
     constructor(
         name = '',
         color = '',

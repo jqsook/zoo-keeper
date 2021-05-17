@@ -1,4 +1,4 @@
-class Vole {
+export class Vole {
     constructor(
         name = '',
         color = '',

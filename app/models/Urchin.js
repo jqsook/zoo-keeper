@@ -1,4 +1,4 @@
-class Urchin {
+export class Urchin {
     constructor(
         name = '',
         color = '',

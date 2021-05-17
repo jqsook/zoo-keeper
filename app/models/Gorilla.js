@@ -1,4 +1,4 @@
-class Gorilla {
+export class Gorilla {
     constructor(
         name = '',
         color = '',
