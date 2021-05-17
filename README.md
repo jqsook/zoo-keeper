@@ -8,7 +8,7 @@ Students will use javascript in order to create classes and instances of those c
 
 ### Part 1: Creating Classes
 
-Create a new class for each animal in your zoo. Create an animal class for every letter of the alphabet. Don't forget to declare your classes in their own unique files.
+<!-- Create a new class for each animal in your zoo. Create an animal class for every letter of the alphabet. Don't forget to declare your classes in their own unique files. -->
 
 ```js
 class Alligator {
@@ -42,7 +42,7 @@ _Note: You need not have every property or member in this class in your classes,
 
 ### Part 2: Creating Instances
 
-Create at least one instance of every animal class
+<!-- Create at least one instance of every animal class -->
 
 ```js
 let ally = new Alligator("Ally", "Green", "F", 200, 60, "big");
@@ -53,3 +53,5 @@ let ally = new Alligator("Ally", "Green", "F", 200, 60, "big");
 Group like animals in collections. Utilize array methods, e.g., _.push()_
 
 _Hint: how could you utilize a new class, Pen, or Cage, to accomplish Part 3?_
+
+<!-- Create Mufasa, scar, simba.  But only one king- method called kill lion to reassign who the king is by killing off one or the other and setting the new king as who ever is the new king. -->

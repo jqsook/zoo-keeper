@@ -20,6 +20,7 @@ class Beaver {
     speak(noise) {
         alert(`The ${this.constructor.name} says ${noise}!`)
     }
-} export default Beaver;
+}
+export default Beaver;
 
 let beaver = new Beaver("Betsie", "Brown", "F", 20, 10, "big");
